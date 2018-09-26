@@ -1,7 +1,9 @@
 # Summary
 
 * [简介](README.md)
-* [版本更新](posts/release.md)
+* [版本更新](posts/release/README.md)
+    * [更新记录](posts/release/changelog.md)
+    * [最新版本(1.4.6)特性一览](posts/release/new.md)
 * [报表简介](posts/ch1-report/README.md)
     * [Transaction报表](posts/ch1-report/transaction.md)
     * [Event报表](posts/ch1-report/event.md)

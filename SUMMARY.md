@@ -1,6 +1,7 @@
 # Summary
 
 * [简介](README.md)
+* [版本更新](posts/release.md)
 * [报表简介](posts/ch1-report/README.md)
     * [Transaction报表](posts/ch1-report/transaction.md)
     * [Event报表](posts/ch1-report/event.md)

@@ -1,4 +1,4 @@
-## 最新特性一览 (版本：1.4.6)
+## 最新特性一览 (版本：3.0.0)
 
 ### 1. 多语言客户端
 
@@ -7,10 +7,10 @@ Cat推出多种语言的客户端，基本覆盖了主流开发语言，一定�
 Cat目前支持：
 
 - **Java**
-- **C / C++**
-- **Python**
+- [**C / C++**](https://github.com/dianping/cat/blob/master/lib/c/README.md)
+- [**Python**](https://github.com/dianping/cat/blob/master/lib/python/README.md)
 - **Node.js**
-- **Golang**
+- [**Golang**](https://github.com/dianping/cat/blob/master/lib/go/README.md)
 
 
 ### 2. 自研二进制序列化协议

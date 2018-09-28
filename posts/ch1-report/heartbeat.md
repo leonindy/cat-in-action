@@ -6,8 +6,10 @@
 
 JVM GC 相关指标 | 描述
   ---|---
-NewGc Count | 新生代GC次数
-OldGc Count | 旧生代GC次数
+NewGc Count / PS Scavenge Count | 新生代GC次数
+NewGc Time / PS Scavenge Time | 新生代GC耗时
+OldGc Count | 老年代GC次数
+PS MarkSweepTime | 老年代GC耗时
 Heap Usage  | Java虚拟机堆的使用情况
 None Heap Usage | Java虚拟机Perm的使用情况
 
@@ -28,6 +30,9 @@ System 相关指标 | 描述
   ---|---
 System Load Average | 系统Load详细信息
 Memory Free | 系统memoryFree情况
+FreePhysicalMemory | 物理内存剩余空间
+/ Free | /根的使用情况
+/data Free | /data盘的使用情况
 
 
 
